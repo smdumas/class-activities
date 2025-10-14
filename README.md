@@ -1,1 +1,2 @@
-This is my class activities repo
+This class my class activities repo
+
