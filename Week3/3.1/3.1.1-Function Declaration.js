@@ -5,7 +5,6 @@ function greet() {
 };
 
 
-
 function threemodtwo() {
   console.log(3 % 2);
 };
